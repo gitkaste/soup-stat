@@ -1,0 +1,7 @@
+This used to be a working soup.io dumper.
+
+It's not overly clever (especially the caching behaviour), but I managed to
+save about a year's worth of posts from our rather busy soup. I believe the 
+page design changed, so the scraping doesn't work properly anymore, I hope
+I find the time to fix this before soup.io goes down (rumored to be rather 
+soonish)
